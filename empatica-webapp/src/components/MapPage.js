@@ -5,7 +5,7 @@ import APIHelper from "../util/APIHelper";
 
 export default class MapPage extends Component {
 
-	 constructor(props) {
+	constructor(props) {
 		super(props);
 		this.state = {
 			points: []
