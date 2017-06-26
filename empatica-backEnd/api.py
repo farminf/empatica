@@ -10,7 +10,7 @@ app = Flask(__name__)
 CORS(app)
 
 app.config['MONGO_DBNAME'] = 'downloadDB' 
-app.config['MONGO_URI'] = 'mongodb://localhost:27017/downloadDB'
+app.config['MONGO_URI'] = 'mongodb://db:27017/downloadDB'
 
 mongo = PyMongo(app)
 
@@ -57,5 +57,5 @@ def delete_data():
 	return jsonify({'result' : 'success'})
 
 if __name__ == '__main__':
-	app.run(debug=True)
+	app.run(host='0.0.0.0' , debug=True)
 
