@@ -43,9 +43,9 @@ export default class Statistics extends Component {
 					<table class="table table-bordered">
 						<thead>
 							<tr>
-								<th>Country</th>
+								<th className="bycountry-th">Country</th>
 								
-								<th>Number</th>
+								<th className="bycountry-th">Number</th>
 							</tr>
 						</thead>
 						<tbody>
