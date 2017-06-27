@@ -9,15 +9,21 @@
 
 ### How to Run
 
-After Cloning this project, inside the *backend* folder, run:
+- After Cloning this project, inside the *backend* folder, run:
 
-``` bash
-virtualenv -p python3 empaticaenv
-source empaticaenv/bin/activate
-(empaticaenv)$ pip install Flask-PyMongo flask_cors requests
-```
+    ``` bash
+    virtualenv -p python3 empaticaenv
+    source empaticaenv/bin/activate
+    (empaticaenv)$ pip install Flask-PyMongo flask_cors requests
+    ```
+#### Docker
+- Running docker-compose commands inside this folder:
+    ```bash
+    docker-compose build
+    docker-compose up
+    ```
 
-### API 
+### API Architecture
 
 - ``` GET /api/all```
     - returns the whole data dataset
