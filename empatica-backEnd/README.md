@@ -16,12 +16,6 @@
     source empaticaenv/bin/activate
     (empaticaenv)$ pip install Flask-PyMongo flask_cors requests
     ```
-#### Docker
-- Running docker-compose commands inside this folder:
-    ```bash
-    docker-compose build
-    docker-compose up
-    ```
 
 ### API Architecture
 

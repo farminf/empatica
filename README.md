@@ -14,10 +14,16 @@
 
 
 ### How to Run
-- For backend part, there are 2 ways:
+- For backend part:
     - Installing mongodb and running the python script (instructions in the backend folder)
-    - Using Docker-compose
 
 - For Web App: NPM
+
+#### Docker
+- the whole project can be run as a docker
+    ```bash
+     sudo docker-compose build
+     sudo docker-compose up
+    ```
 
 
