@@ -26,4 +26,11 @@
      sudo docker-compose up
     ```
 
+### Testing the Application
 
+For testing the app it needs to POST some data to backend...
+- After running the application, try to post data to path ```/api``` with payload:
+```json
+{"lat":"48.9333", "lon":"11.2196", "app_id":"34804", "downloaded":"1498547898"}
+
+```
