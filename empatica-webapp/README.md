@@ -4,7 +4,7 @@
 - npm
 
 ### How to Run
-Inside the root:
+Inside this folder:
 
 ```bash
 npm install

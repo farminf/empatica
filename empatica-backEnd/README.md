@@ -74,4 +74,4 @@
 
 ### Country
 
-As soon as new data posted to API, service will call GEO online API for finding the country based on the coordinates and save the country for each data point too.
+As soon as new data posted to API, service will call [GEO online API](http://www.geonames.org/) for finding the country based on the coordinates and save the country for each data point too.

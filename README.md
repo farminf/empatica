@@ -18,6 +18,6 @@
     - Installing mongodb and running the python script (instructions in the backend folder)
     - Using Docker-compose
 
-- For Web App, running using NPM
+- For Web App: NPM
 
 
