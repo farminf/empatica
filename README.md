@@ -1,4 +1,4 @@
-### Empatica Demo
+### Statistic Dashboard
 
 *Note: Dedicated README files for Back-End and Front-End are inside their folders.*
 
