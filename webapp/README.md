@@ -12,9 +12,9 @@ npm start
 ```
 
 ### Images
-![alt text](https://github.com/farminf/empatica/blob/master/empatica-webapp/empatica-map.png?raw=true "Map page Image")
+![alt text](https://github.com/farminf/statistics-dashboard/blob/master/webapp/map.png?raw=true "Map page Image")
 
-![alt text](https://github.com/farminf/empatica/blob/master/empatica-webapp/empatica-statistic.png?raw=true "statistic page Image")
+![alt text](https://github.com/farminf/statistics-dashboard/blob/master/webapp/statistic.png?raw=true "statistic page Image")
 
 
 ### 3rd party libraries

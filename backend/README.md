@@ -12,9 +12,9 @@
 - After Cloning this project, inside the *backend* folder, run:
 
     ``` bash
-    virtualenv -p python3 empaticaenv
-    source empaticaenv/bin/activate
-    (empaticaenv)$ pip install Flask-PyMongo flask_cors requests
+    virtualenv -p python3 env
+    source env/bin/activate
+    (env)$ pip install Flask-PyMongo flask_cors requests
     ```
 
 ### API Architecture
