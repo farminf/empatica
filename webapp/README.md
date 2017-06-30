@@ -1,4 +1,4 @@
-# Empatica Web App
+# Web App
 
 ### Requirement
 - npm
