@@ -1,4 +1,4 @@
-# Empatica Dummy Backend
+# Dummy Backend
 
 ### Requirement
 - MongoDB
